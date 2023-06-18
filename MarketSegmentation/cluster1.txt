@@ -1,0 +1,32 @@
+  cluster 1 - Bank Balance Below 15k
+
+ 
+<Educational Loan>
+
+1.The scheme envisages loans up to Rs.7.5 lakh for studies in India and up to Rs. 15 lakh for studies abroad.
+
+2.For loans up to Rs. 4 lakh no collateral or margin is required and the interest rate is not to exceed the Prime Lending Rates (PLR).
+ For loans above Rs. 4 lakh the interest rate will not exceed PLR plus 1 percent.
+
+3.The loans are to be repaid over a period of 5 to 7 years with provision of grace period of one year after completion of studies
+
+
+   <Agrriculture/farmer>
+
+provides access to institutional finance to unfunded micro / small business units by extending loans upto Rs.10 lakh for 
+manufacturing, processing, trading, services and activities allied to agriculture
+
+
+  <Health insurance>
+
+The RSBY health insurance scheme is primarily aimed at the people Below the Poverty Line, especially those in the unorganised sector.
+ The scheme covers the workers and their families with coverage of up to Rs. 30,000 per family per annum
+
+ <Two wheeler loan>
+
+Scheme: SBI TWO-WHEELER LOAN SCHEME
+Purpose: Finance for purchase of new Two-wheeler
+viz. scooter/motorcycle/ moped/battery operated/electric vehicles of reputed make (Registration with RTO is mandatory)
+Loan to Value of vehicle: 85% of On-Road Price of vehicle
+Age Criteria: 21-57 years
+Minimum Income Criteria: Net Monthly Income Rs. 12,500/- (i.e., Rs. 1,50,000/- Net Annual Income)
